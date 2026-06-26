@@ -1,9 +1,5 @@
 # Relacionamento de Tabelas no Supabase
 
-Projeto escolar desenvolvido para demonstrar a criação, organização e relacionamento de tabelas em um banco de dados usando **SQL**, **PostgreSQL** e **Supabase**.
-
-O projeto apresenta exemplos simples e completos de modelagem de dados, com uso de **chave primária**, **chave estrangeira**, relacionamentos entre tabelas, inserção de dados, consultas, views e regras básicas de segurança.
-
 ## Objetivo do projeto
 
 O objetivo principal é mostrar como um banco de dados relacional pode organizar informações de forma estruturada, evitando repetição de dados e permitindo ligações entre diferentes tabelas.
